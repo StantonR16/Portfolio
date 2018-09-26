@@ -2,7 +2,7 @@
 epic
 
 # Links
-## Dice
+### Dice
 [Dice](https://github.com/StantonR16/Dice)
 
 [Dice URL](https://stantonr16.github.io/Dice/)
