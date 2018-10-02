@@ -2,6 +2,12 @@
 epic
 
 # Links
+
+### Chemotaxis
+[Chemotaxis](https://github.com/StantonR16/Chemotaxis)
+
+[Chemotaxis URL](https://stantonr16.github.io/Chemotaxis/)
+
 ### Dice
 [Dice](https://github.com/StantonR16/Dice)
 
@@ -18,3 +24,4 @@ epic
 [Web page](https://github.com/StantonR16/TestPage)
 
 [Web page URL](https://stantonr16.github.io/TestPage/)
+
