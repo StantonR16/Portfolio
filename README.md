@@ -1,7 +1,7 @@
 # Portfolio
 epic
 
-(My personal GitHub (which is way more epic))[https://github.com/Decimation]
+[My personal GitHub (which is way more epic)](https://github.com/Decimation)
 
 # Links
 
