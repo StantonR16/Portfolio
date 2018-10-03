@@ -3,9 +3,26 @@ epic
 
 [My personal GitHub (which is way more epic)](https://github.com/Decimation)
 
+---
+
+# Most difficult code
+[This entire file](https://github.com/Decimation/TITrig/blob/master/src/Right/RightTriangle.c)
+
+---
+
+# My favorite languages
+
+1. C#
+2. C++
+3. Java
+4. C
+
+---
+
 # Links
 
-
+### TI-84 Triangle solver written in C
+[TITrig](https://github.com/Decimation/TITrig)
 
 ### Chemotaxis
 [Chemotaxis](https://github.com/StantonR16/Chemotaxis)
