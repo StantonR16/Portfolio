@@ -1,5 +1,5 @@
 # Portfolio
-epic
+*epic*
 
 [My personal GitHub (which is way more epic)](https://github.com/Decimation)
 
