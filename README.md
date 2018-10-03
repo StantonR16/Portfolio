@@ -1,7 +1,11 @@
 # Portfolio
 epic
 
+(My personal GitHub (which is way more epic))[https://github.com/Decimation]
+
 # Links
+
+
 
 ### Chemotaxis
 [Chemotaxis](https://github.com/StantonR16/Chemotaxis)
