@@ -12,10 +12,10 @@
 
 # My favorite languages
 
-1. C#
-2. C++
-3. Java
-4. C
+1. `C#`
+2. `C++`
+3. `Java`
+4. `C`
 
 ---
 
