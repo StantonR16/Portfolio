@@ -1,7 +1,7 @@
 # Portfolio
 *epic*
 
-[My personal GitHub](https://github.com/Decimation)
+
 
 ---
 
