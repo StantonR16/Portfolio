@@ -27,7 +27,7 @@
 <details><summary><strong>TI-84 Triangle solver written in C</strong></summary>
 <p>
 
-[TITrig](https://github.com/Decimation/TITrig)
+<a href="https://github.com/Decimation/TITrig">TITrig</a>
 
 ![45-45-90](https://raw.githubusercontent.com/Decimation/TITrig/master/45_45_90.png)
 
@@ -39,6 +39,7 @@
 </details>
 
 <p></p>
+
 <details><summary><strong>Chemotaxis</strong></summary>
 <p>
 
@@ -49,7 +50,7 @@
 </p>
 </details>
 
-
+<p></p>
 
 
 <details><summary><strong>Dice</strong></summary>
@@ -62,7 +63,7 @@
 </p>
 </details>
 
-
+<p></p>
 
 
 <details><summary><strong>Lightning</strong></summary>
