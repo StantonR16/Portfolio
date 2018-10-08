@@ -29,11 +29,9 @@
 
 [TITrig](https://github.com/Decimation/TITrig)
 
-<p></p>
-
 ![45-45-90](https://raw.githubusercontent.com/Decimation/TITrig/master/45_45_90.png)
 
-<p></p>
+
 
 ![AAS](https://raw.githubusercontent.com/Decimation/TITrig/master/aas.png)
 
@@ -51,7 +49,7 @@
 </p>
 </details>
 
-<p></p>
+
 
 
 <details><summary><strong>Dice</strong></summary>
@@ -65,7 +63,7 @@
 </details>
 
 
-<p></p>
+
 
 <details><summary><strong>Lightning</strong></summary>
 <p>
@@ -80,7 +78,7 @@
 </details>
 
 
-<p></p>
+
 
 
 <details><summary><strong>Web page</strong></summary>
