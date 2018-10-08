@@ -29,10 +29,9 @@
 
 <a href="https://github.com/Decimation/TITrig">TITrig</a>
 
-![45-45-90](https://raw.githubusercontent.com/Decimation/TITrig/master/45_45_90.png)
+<p>45-45-90 <img src="https://raw.githubusercontent.com/Decimation/TITrig/master/45_45_90.png"></p>
 
-
-![AAS](https://raw.githubusercontent.com/Decimation/TITrig/master/aas.png)
+<p>AAS <img src="https://raw.githubusercontent.com/Decimation/TITrig/master/aas.png"></p>
 
 </p>
 </details>
@@ -76,6 +75,9 @@
 
 </p>
 </details>
+
+<p></p>
+
 
 <details><summary><strong>Web page</strong></summary>
 <p>
