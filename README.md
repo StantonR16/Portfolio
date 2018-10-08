@@ -32,7 +32,6 @@
 ![45-45-90](https://raw.githubusercontent.com/Decimation/TITrig/master/45_45_90.png)
 
 
-
 ![AAS](https://raw.githubusercontent.com/Decimation/TITrig/master/aas.png)
 
 </p>
@@ -43,9 +42,9 @@
 <details><summary><strong>Chemotaxis</strong></summary>
 <p>
 
-[Chemotaxis](https://github.com/StantonR16/Chemotaxis)
+<a href="https://github.com/StantonR16/Chemotaxis">Chemotaxis</a>
 
-[Chemotaxis URL](https://stantonr16.github.io/Chemotaxis/)
+<a href="https://stantonr16.github.io/Chemotaxis/">Chemotaxis URL</a>
 
 </p>
 </details>
@@ -56,9 +55,9 @@
 <details><summary><strong>Dice</strong></summary>
 <p>
 
-[Dice](https://github.com/StantonR16/Dice)
+<a href="https://github.com/StantonR16/Dice">Dice</a>
 
-[Dice URL](https://stantonr16.github.io/Dice/)
+<a href="https://stantonr16.github.io/Dice/">Dice URL</a>
 
 </p>
 </details>
@@ -69,25 +68,22 @@
 <details><summary><strong>Lightning</strong></summary>
 <p>
 
-[Lightning](https://github.com/StantonR16/lightning2)
+<a href="https://github.com/StantonR16/lightning2">Lightning</a>
 
-[Lightning URL](https://stantonr16.github.io/lightning2/)
+<a href="https://stantonr16.github.io/lightning2/">Lightning URL</a>
 
-[Lightning JS]()
+<a href="https://stantonr16.github.io/Dice/">Lightning JS</a>
 
 </p>
 </details>
 
-
-
-
-
 <details><summary><strong>Web page</strong></summary>
 <p>
 
-[Web page](https://github.com/StantonR16/TestPage)
+<a href="https://github.com/StantonR16/TestPage">Web page</a>
 
-[Web page URL](https://stantonr16.github.io/TestPage/)
+<a href="https://stantonr16.github.io/TestPage/">Web page URL</a>
+
 
 </p>
 </details>
