@@ -27,11 +27,11 @@
 <details><summary><strong>TI-84 Triangle solver written in C</strong></summary>
 <p>
 
-<a href="https://github.com/Decimation/TITrig">TITrig</a>
+<a href="https://github.com/Decimation/TITrig">TITrig<br></a>
 
-<p>45-45-90 <img src="https://raw.githubusercontent.com/Decimation/TITrig/master/45_45_90.png"></p>
+<p>45-45-90<br> <img src="https://raw.githubusercontent.com/Decimation/TITrig/master/45_45_90.png"></p>
 
-<p>AAS <img src="https://raw.githubusercontent.com/Decimation/TITrig/master/aas.png"></p>
+<p>AAS<br> <img src="https://raw.githubusercontent.com/Decimation/TITrig/master/aas.png"></p>
 
 </p>
 </details>
@@ -41,7 +41,7 @@
 <details><summary><strong>Chemotaxis</strong></summary>
 <p>
 
-<a href="https://github.com/StantonR16/Chemotaxis">Chemotaxis</a>
+<a href="https://github.com/StantonR16/Chemotaxis">Chemotaxis<br></a>
 
 <a href="https://stantonr16.github.io/Chemotaxis/">Chemotaxis URL</a>
 
@@ -54,7 +54,7 @@
 <details><summary><strong>Dice</strong></summary>
 <p>
 
-<a href="https://github.com/StantonR16/Dice">Dice</a>
+<a href="https://github.com/StantonR16/Dice">Dice<br></a>
 
 <a href="https://stantonr16.github.io/Dice/">Dice URL</a>
 
@@ -67,9 +67,9 @@
 <details><summary><strong>Lightning</strong></summary>
 <p>
 
-<a href="https://github.com/StantonR16/lightning2">Lightning</a>
+<a href="https://github.com/StantonR16/lightning2">Lightning<br></a>
 
-<a href="https://stantonr16.github.io/lightning2/">Lightning URL</a>
+<a href="https://stantonr16.github.io/lightning2/">Lightning URL<br></a>
 
 <a href="https://stantonr16.github.io/Dice/">Lightning JS</a>
 
@@ -82,7 +82,7 @@
 <details><summary><strong>Web page</strong></summary>
 <p>
 
-<a href="https://github.com/StantonR16/TestPage">Web page</a>
+<a href="https://github.com/StantonR16/TestPage">Web page<br></a>
 
 <a href="https://stantonr16.github.io/TestPage/">Web page URL</a>
 
