@@ -85,7 +85,7 @@
 <a href="https://github.com/StantonR16/TestPage">Web page<br></a>
 
 <a href="https://stantonr16.github.io/TestPage/">Web page URL</a>
-
+</details>
 
 </p>
 
