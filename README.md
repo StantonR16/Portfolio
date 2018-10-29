@@ -88,6 +88,11 @@
 
 
 </p>
+
+<details><summary><strong>Web page</strong></summary>
+<p>
+<a href="https://docs.google.com/presentation/d/10J8a6gS9GdSibj7b8eD5rL5nlw0OKGnh99JgMz0yQVU/edit?usp=sharing">Presentation</a>
+</p>
 </details>
 
 
