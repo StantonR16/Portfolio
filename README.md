@@ -81,7 +81,9 @@
 
 <details><summary><strong>Web page</strong></summary>
 <p>
+  
   <a href="https://github.com/StantonR16/TestPage">Web page<br></a>
+  
   <a href="https://stantonr16.github.io/TestPage/">Web page URL<br></a>
 
 
@@ -94,7 +96,9 @@
 <details><summary><strong>College presentation</strong></summary>
 
 <p>
+  
   <a href="https://docs.google.com/presentation/d/10J8a6gS9GdSibj7b8eD5rL5nlw0OKGnh99JgMz0yQVU/edit?usp=sharing">Presentation<br></a>
+
 </details>
 </p>
 
