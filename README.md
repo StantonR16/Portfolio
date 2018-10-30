@@ -99,7 +99,7 @@
   
   <a href="https://docs.google.com/presentation/d/10J8a6gS9GdSibj7b8eD5rL5nlw0OKGnh99JgMz0yQVU/edit?usp=sharing">Presentation<br></a>
 
-</details>
+
 </p>
 
 <p></p>
