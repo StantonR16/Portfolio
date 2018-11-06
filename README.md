@@ -8,21 +8,19 @@
 # Most difficult code
 [This entire file](https://github.com/Decimation/TITrig/blob/master/src/Right/RightTriangle.c)
 
-From "Starfield"
+From <a href="https://github.com/StantonR16/starfield5">Starfield<br></a>:
 
 ```Java
 void move(double angleDelta) {
-    //    m_x = mouseX;
-    //   m_y = mouseY;
-    m_color = color((int)(Math.cos(m_angle) * 255),(int)(Math.sin(m_angle) *255),(int)(Math.tan(m_angle) * 255));
+    m_color = color((int)(Math.cos(m_angle) * 255),(int)(Math.sin(m_angle) * 255),(int)(Math.tan(m_angle) * 255));
     m_x = Math.cos(m_angle) * m_scalar + (m_x);
     m_y = Math.sin(m_angle) * m_scalar + (m_y);
     m_angle += angleDelta;
-    
   }
 ```
 
-This code actually wasn't hard at all, but Dr. R made me put it here.
+Basically, this code does some epic trigonometric calculations which move the star. This code actually wasn't hard at all (because SOH-CAH-TOA is epic), but Dr. R made me put it here.
+
 ---
 
 # My favorite languages
