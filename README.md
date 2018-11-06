@@ -8,7 +8,7 @@
 # Most difficult code
 [This entire file](https://github.com/Decimation/TITrig/blob/master/src/Right/RightTriangle.c)
 
-From <a href="https://github.com/StantonR16/starfield5">Starfield<br></a>:
+My "most difficult" code from <a href="https://github.com/StantonR16/starfield5">Starfield</a>:
 
 ```Java
 void move(double angleDelta) {
