@@ -1,7 +1,5 @@
 # Portfolio
-*epic*
-
-*g*
+*epic* and also *g*
 
 also ok thanks.
 
