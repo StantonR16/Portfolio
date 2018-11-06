@@ -19,7 +19,7 @@ void move(double angleDelta) {
   }
 ```
 
-Basically, this code does some epic trigonometric calculations which move the star. This code actually wasn't hard at all (because SOH-CAH-TOA is epic), but Dr. R made me put it here.
+Basically, this code does some epic trigonometric and sinusoidal calculations which move the star. This code actually wasn't hard at all (because SOH-CAH-TOA is epic), but Dr. R made me put it here.
 
 ---
 
