@@ -83,11 +83,11 @@ Basically, this code does some epic trigonometric and sinusoidal calculations wh
 <details><summary><strong>Lightning</strong></summary>
 <p>
 
-<a href="https://github.com/StantonR16/lightning2">Lightning<br></a>
+<a href="https://github.com/StantonR16/lightning2">Lightning (+JS)<br></a>
 
 <a href="https://stantonr16.github.io/lightning2/">Lightning URL<br></a>
 
-<a href="https://stantonr16.github.io/Dice/">Lightning JS</a>
+<!-- <a href="https://stantonr16.github.io/Dice/">Lightning JS</a> -->
 
 </p>
 </details>
