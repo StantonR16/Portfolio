@@ -21,15 +21,15 @@ This specific code snippet uses pointer manipulation and pointer arithmetic whic
 
 ```C#
 [MethodImpl(MethodImplOptions.AggressiveInlining)]
-		public static Pointer<byte> AddressOfHeap<T>(ref T t) where T : class
-		{
-			TypedReference tr = __makeref(t);
+public static Pointer<byte> AddressOfHeap<T>(ref T t) where T : class
+{
+	TypedReference tr = __makeref(t);
 
-			// NOTE:
-			// Strings have their data offset by RuntimeHelpers.OffsetToStringData
-			// Arrays have their data offset by IntPtr.Size * 2 bytes (may be different for 32 bit)
-			return **(IntPtr**) (&tr);
-		}
+	// NOTE:
+	// Strings have their data offset by RuntimeHelpers.OffsetToStringData
+	// Arrays have their data offset by IntPtr.Size * 2 bytes (may be different for 32 bit)
+	return **(IntPtr**) (&tr);
+}
 ```       
 
 Around April 2018, I started writing my C triangle solver for the TI-84: [TITrig](https://github.com/Decimation/TITrig). This project taught me a lot about assembly, specifically Zilog Z80 assembly, and native programming.
@@ -55,6 +55,12 @@ void move(double angleDelta) {
 ```
 
 Basically, this code does some epic trigonometric and sinusoidal calculations which move the star. This code actually wasn't hard at all (because SOH-CAH-TOA is epic), but relatively speaking it was hard to visualize the calculations.
+
+---
+
+# Difficulty
+
+Writing code in Processing that actually worked *on the web* was a huge pain, because Processing JS converts Processing Java code into Processing JS code on the web which meant some Java code wouldn't work properly. For example, `enums` don't work. In nearly every Processing project I did, I ended up writing some code that didn't work on the web. To resolve this, I would have to rewrite a major part of the program just to get it to work on the web. That's one reason I dislike Processing.
 
 ---
 
