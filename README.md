@@ -8,11 +8,37 @@ m̋͑̋́̈́̾ͪͬ̅ͧ͛̽̓̄ͤͩ̔͂̚͏̡̰̼͍͙͡y͆ͩ̓͋͊͋̉̋̏̾ͫͥ̚
 
 ---
 
-#Reflection
+# Reflection
 
-Basically, I learned how to draw super cool
 
-I take pride in my C# library [RazorSharp](https://github.com/Decimation/RazorSharp) and [TITrig](https://github.com/Decimation/TITrig)
+Most of the pride I have as a programmer come from outside of class. Here are a few:
+
+My most recent project is my C# library, [RazorSharp](https://github.com/Decimation/RazorSharp).
+
+I also wrote a [few articles](https://www.codeproject.com/Articles/1254217/Calculating-Heap-Size-of-Managed-Objects) on the code I wrote documenting .NET internals.
+
+This specific code snippet uses pointer manipulation and pointer arithmetic which helped me understand pointers.
+
+```C#
+[MethodImpl(MethodImplOptions.AggressiveInlining)]
+		public static Pointer<byte> AddressOfHeap<T>(ref T t) where T : class
+		{
+			TypedReference tr = __makeref(t);
+
+			// NOTE:
+			// Strings have their data offset by RuntimeHelpers.OffsetToStringData
+			// Arrays have their data offset by IntPtr.Size * 2 bytes (may be different for 32 bit)
+			return **(IntPtr**) (&tr);
+		}
+```       
+
+Around April 2018, I started writing my C triangle solver for the TI-84: [TITrig](https://github.com/Decimation/TITrig). This project taught me a lot about assembly, specifically Zilog Z80 assembly, and native programming.
+
+My first significant project was my [Cydia repository](https://github.com/Decimation/decimation.github.io) for jailbroken iOS devices which I made in 8th grade. It has served as a template for many GitHub-based Debian APT package management repositories.
+
+For my class-based accomplishments, I learned a lot about Processing (which I honestly dislike) and drawing methods. It has helped me visually channel my creativity.
+
+---
 
 # Most difficult code
 [This entire file](https://github.com/Decimation/TITrig/blob/master/src/Right/RightTriangle.c)
@@ -28,7 +54,7 @@ void move(double angleDelta) {
   }
 ```
 
-Basically, this code does some epic trigonometric and sinusoidal calculations which move the star. This code actually wasn't hard at all (because SOH-CAH-TOA is epic), but Dr. R made me put it here.
+Basically, this code does some epic trigonometric and sinusoidal calculations which move the star. This code actually wasn't hard at all (because SOH-CAH-TOA is epic), but relatively speaking it was hard to visualize the calculations.
 
 ---
 
