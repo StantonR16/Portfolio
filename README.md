@@ -12,7 +12,7 @@ m̋͑̋́̈́̾ͪͬ̅ͧ͛̽̓̄ͤͩ̔͂̚͏̡̰̼͍͙͡y͆ͩ̓͋͊͋̉̋̏̾ͫͥ̚
 
 Basically, I learned how to draw super cool
 
-I take pride in my C# library (RazorSharp)[https://github.com/Decimation/RazorSharp] and (TITrig)[https://github.com/Decimation/TITrig]
+I take pride in my C# library [RazorSharp](https://github.com/Decimation/RazorSharp) and [TITrig](https://github.com/Decimation/TITrig)
 
 # Most difficult code
 [This entire file](https://github.com/Decimation/TITrig/blob/master/src/Right/RightTriangle.c)
