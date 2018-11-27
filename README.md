@@ -4,7 +4,7 @@
 also ok thanks.
 
 
-m̋͑̋́̈́̾ͪͬ̅ͧ͛̽̓̄ͤͩ̔͂̚͏̡̰̼͍͙͡y͔̥̣̖̘̘̦͓̟͈̖̥͆ͩ̓͋͊͋̉̋̏̾ͫͥ̚͠ ̴̖͔͓̫̬ͮ̒̌̓̈́ͬ̍ͮ̽̏ͧͯ́͡ͅn̶͉̩̪͙̲̻̙͎̠̜͐͆̌̒͢͠ͅͅa̢̡̤̦͇͕ͦ̀̉̉̍̒͑̓͊̂́͢͝m̦̘̟͎̯̫̜̲̲̹̖͇̖̣͈̲̭ͣ̽́̉͐̄͊͠é̛̛͇̰͔̙̲͍̥̯̙̽͑̅͆͐͑̒̇ͦ͐̄̚̚͘͘͞ ̶̽̿̒ͨ͊ͫͫ̄͑̽̀̌͜͏̤̥̫̗͔̪̖̭̮̝̙̪̖̩̹͚̰̬ì̷̭͈̳̱ͮͬ̔́͒ͧͮ̇̑̕ş̵̷̙̭͉͙̯͕̜̘ͣ́ͨ̍̅̏͟͝ ̧̟̙͖͔̗̯̙̭ͥͨ͛͌͐ͦ͊ͤ̂̄ͬ̀͘ͅĵ̷̵̴̪̻͈̹͖͓̒̏͂̅̇̍̓͢ͅȩ̛ͧ͋͗ͮ̅̓̆̿̄̅ͮ̓̒̓ͭͬͮ̐́͟҉̤͎̮͍̞͕̹͙̬̠f̛̛̳̜̥̝̮͚̜͕̼̩̻̗ͨ̊ͫͪͦ̂͋̃ͤ̏̒͜f̸̛̝̹̼͔͖͔̫̦̠͔̞̹̙̙͙̎ͮͨ̓̀
+m̋͑̋́̈́̾ͪͬ̅ͧ͛̽̓̄ͤͩ̔͂̚͏̡̰̼͍͙͡y͔̥̣̖̘̘̦͓̟͈̖̥͆ͩ̓͋͊͋̉̋̏̾ͫͥ̚͠ ̴̖͔͓̫̬ͮ̒̌̓̈́ͬ̍ͮ̽̏ͧͯ́͡ͅn̶͉̩̪͙̲̻̙͎̠̜͐͆̌̒͢͠ͅͅa̢̡̤̦͇͕ͦ̀̉̉̍̒͑̓͊̂́͢͝m̦̘̟͎̯̫̜̲̲̹̖͇̖̣͈̲̭ͣ̽́̉͐̄͊͠é̛̛͇̰͔̙̲͍̥̯̙̽͑̅͆͐͑̒̇ͦ͐̄̚̚͘͘͞ ̶̽̿̒ͨ͊ͫͫ̄͑̽̀̌͜͏̤̥̫̗͔̪̖̭̮̝̙̪̖̩̹͚̰̬ì̷̭͈̳̱ͮͬ̔́͒ͧͮ̇̑̕ş̵̷̙̭͉͙̯͕̜̘ͣ́ͨ̍̅̏͟͝ ̧̟̙͖͔̗̯̙̭ͥͨ͛͌͐ͦ͊ͤ̂̄ͬ̀͘ͅĵ̷̵̴̪̻͈̹͖͓̒̏͂̅̇̍̓͢ͅȩ̛ͧ͋͗ͮ̅̓̆̿̄̅ͮ̓̒̓ͭͬͮ̐́͟҉̤͎̮͍̞͕̹͙̬̠f̛̛̳̜̥̝̮͚̜͕̼̩̻̗ͨ̊ͫͪͦ̂͋̃ͤ̏̒͜f̸̛̝̹̼͔͖͔̫̦̠͔̞̹̙̙͙̎ͮͨ̓̀
 
 ---
 
@@ -12,6 +12,8 @@ m̋͑̋́̈́̾ͪͬ̅ͧ͛̽̓̄ͤͩ̔͂̚͏̡̰̼͍͙͡y͆ͩ̓͋͊͋̉̋̏̾ͫͥ̚
 
 
 When I typically write code, I have a good idea of how I'll logistically implement the code. I tend to write a "rough draft" of the code, then later refine it; I usually don't write pseudocode. I also ensure my code runs as a *system* and everything works interdependently so future refactoring can be done efficiently.
+
+<details><summary><strong>See more</strong></summary>
 
 Most of the pride I have as a programmer comes from the code I write outside of class. All of these projects I made independently. Here are a few projects I'm proud of:
 
@@ -38,7 +40,10 @@ Most of the pride I have as a programmer comes from the code I write outside of 
 
 - My first significant project was my [Cydia repository](https://github.com/Decimation/decimation.github.io) for jailbroken iOS devices which I made in 8th grade. It has served as a template for many GitHub-based Debian APT package management repositories.
 
-- For my class-based accomplishments, I learned a lot about Processing (which I honestly dislike) and drawing methods. It has helped me visually channel my creativity.
+- For my class-based accomplishments, I learned a lot about Processing (which I honestly dislike) and drawing methods. It has helped me visually channel my creativity. You can also use the arrows below to see some of the projects I made in class
+
+</p>
+</details>
 
 ---
 
