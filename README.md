@@ -59,7 +59,7 @@ In nearly every Processing project I did, I ended up writing some code that didn
 
 # Links
 
-These are links to some of my projects I've been working on in and out of ACS.
+These are links to some of my projects I've been working on in and out of ACS. Click the arrows for a link to the repository, live website, and a description.
 
 <p></p>
 
