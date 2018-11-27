@@ -11,9 +11,9 @@ m̋͑̋́̈́̾ͪͬ̅ͧ͛̽̓̄ͤͩ̔͂̚͏̡̰̼͍͙͡y͆ͩ̓͋͊͋̉̋̏̾ͫͥ̚
 # Reflection / development
 
 
-Most of the pride I have as a programmer comes from the code I write outside of class. All of these projects I made independently. When I typically write code, I have a good idea of how I'll logistically implement the code. I tend to write a "rough draft" of the code, then later refine it; I usually don't write pseudocode. I also ensure my code runs as a *system* and everything works interdependently so future refactoring can be done efficiently.
+When I typically write code, I have a good idea of how I'll logistically implement the code. I tend to write a "rough draft" of the code, then later refine it; I usually don't write pseudocode. I also ensure my code runs as a *system* and everything works interdependently so future refactoring can be done efficiently.
 
-Here are a few projects I'm proud of:
+Most of the pride I have as a programmer comes from the code I write outside of class. All of these projects I made independently. Here are a few projects I'm proud of:
 
 - My most recent project is my C# library, [RazorSharp](https://github.com/Decimation/RazorSharp).
 
