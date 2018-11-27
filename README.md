@@ -38,6 +38,44 @@ Most of the pride I have as a programmer comes from the code I write outside of 
 
 - Around April 2018, I started writing my C triangle solver for the TI-84: [TITrig](https://github.com/Decimation/TITrig). This project taught me a lot about assembly, specifically Zilog Z80 assembly, and native programming.
 
+- I also made a Schoology quiz taker in November 2017 using Selenium and C#: [QuizletSharp](https://github.com/Decimation/QuizletSharp). I'm in the process of rewriting this library because my skills have increased significantly since I first wrote it. Ironically, the program is actually very fast. This is a code snippet that resolves the current question and attempts to find the closest answer.
+
+	```C#
+	public void LongMode()
+	{
+		Stopwatch localSw = Stopwatch.StartNew();
+
+		Console.Clear();
+		_numOfQuestions = GetQuestionAmount();
+		Console.WriteLine("Total questions: {0}", _numOfQuestions);
+
+		for (int i = 0; i < _numOfQuestions; i++) {
+			_currentQuestion = i;
+			string prompt = GetPromptAtQuestionNum(i);
+
+			List<IWebElement> radios = GetRadiosAtQuestionNum(i);
+			LogQuestion("Indexed {0} radios in this scope", radios.Count);
+
+
+			string def;
+
+			if (Manual.ContainsKey(prompt)) {
+				def = Manual[prompt];
+				goto skipPool;
+			}
+
+			try {
+				def = _qp.Pool[prompt];
+			}
+			catch (KeyNotFoundException) {
+				// Run advanced search if key is not found
+
+				LogQuestion("Key not found!");
+				def = FindClosestDelta(prompt);
+			}
+	...
+	```
+
 - My first significant project was my [Cydia repository](https://github.com/Decimation/decimation.github.io) for jailbroken iOS devices which I made in 8th grade. It has served as a template for many GitHub-based Debian APT package management repositories.
 
 - For my class-based accomplishments, I learned a lot about Processing (which I honestly dislike) and drawing methods. It has helped me visually channel my creativity. You can also use the arrows below to see some of the projects I made in class
