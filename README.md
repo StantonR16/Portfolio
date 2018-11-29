@@ -213,4 +213,14 @@ void move(double angleDelta) {
 - Basically, this code does some epic trigonometric and sinusoidal calculations which move the star. This code actually wasn't hard at all (because SOH-CAH-TOA is epic), but relatively speaking it was hard to visualize the calculations.
  
 </p>
+
+<details><summary><strong>Holiday card 2018</strong></summary>
+
+<p>
+  
+  - <a href="https://github.com/StantonR16/HolidayCard2018">Holiday card<br></a>
+ 
+ 
+</p>
+
 </details>
