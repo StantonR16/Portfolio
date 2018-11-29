@@ -215,6 +215,7 @@ void move(double angleDelta) {
 </p>
 </details>
 
+<p></p>
 <details><summary><strong>Holiday card 2018</strong></summary>
 
 <p>
