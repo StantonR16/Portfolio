@@ -225,4 +225,21 @@ void move(double angleDelta) {
  
 </p>
 
+
+
 </details>
+<p></p>
+<details><summary><strong>StringParser</strong></summary>
+
+<p>
+  
+  - <a href="">WIP<br></a>
+  
+  
+
+- WIP
+ 
+</p>
+</details>
+
+
