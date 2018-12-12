@@ -222,6 +222,7 @@ void move(double angleDelta) {
   
   - <a href="https://github.com/StantonR16/HolidayCard2018">Holiday card<br></a>
  
+ - <a href="https://stantonr16.github.io/HolidayCard2018/">Holiday card URL<br></a>
  
 </p>
 
@@ -233,11 +234,10 @@ void move(double angleDelta) {
 
 <p>
   
-  - <a href="https://github.com/ACS-2018-2019/Stanton.R/tree/master/StringParser_">StringParser<br></a>
+  - <a href="https://github.com/StantonR16/StringParser">StringParser<br></a>
   
-  
+  - <a href="https://stantonr16.github.io/StringParser/">StringParser URL<br></a>
 
-- WIP
  
 </p>
 </details>
