@@ -226,6 +226,7 @@ void move(double angleDelta) {
  
 </p>
 
+- This was particularly epic because I included easter eggs.
 
 
 </details>
@@ -238,6 +239,7 @@ void move(double angleDelta) {
   
   - <a href="https://stantonr16.github.io/StringParser/">StringParser URL<br></a>
 
+- This assignment was extremely frustrating because my code worked on desktop but not online *(as does every single Processing project)*. Specifically, my syllable counter was originally done with Regex but Processing is stupid and Regex doesn't work online. I ended up having to write my syllable counter in a less efficient manner. I had to write the syllable counter a total of 3 times before it actually worked.
  
 </p>
 </details>
