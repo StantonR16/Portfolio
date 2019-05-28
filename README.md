@@ -244,7 +244,7 @@ void move(double angleDelta) {
 
 </details>
 <p></p>
-<details><summary><strong>StringParser</strong></summary>
+<details><summary><strong>StringParser (Flesch readability)</strong></summary>
 
 <p>
   
