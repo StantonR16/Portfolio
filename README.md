@@ -4,7 +4,7 @@
 
 m̋͑̋́̈́̾ͪͬ̅ͧ͛̽̓̄ͤͩ̔͂̚͏̡̰̼͍͙͡y͔̥̣̖̘̘̦͓̟͈̖̥͆ͩ̓͋͊͋̉̋̏̾ͫͥ̚͠ ̴̖͔͓̫̬ͮ̒̌̓̈́ͬ̍ͮ̽̏ͧͯ́͡ͅn̶͉̩̪͙̲̻̙͎̠̜͐͆̌̒͢͠ͅͅa̢̡̤̦͇͕ͦ̀̉̉̍̒͑̓͊̂́͢͝m̦̘̟͎̯̫̜̲̲̹̖͇̖̣͈̲̭ͣ̽́̉͐̄͊͠é̛̛͇̰͔̙̲͍̥̯̙̽͑̅͆͐͑̒̇ͦ͐̄̚̚͘͘͞ ̶̽̿̒ͨ͊ͫͫ̄͑̽̀̌͜͏̤̥̫̗͔̪̖̭̮̝̙̪̖̩̹͚̰̬ì̷̭͈̳̱ͮͬ̔́͒ͧͮ̇̑̕ş̵̷̙̭͉͙̯͕̜̘ͣ́ͨ̍̅̏͟͝ ̧̟̙͖͔̗̯̙̭ͥͨ͛͌͐ͦ͊ͤ̂̄ͬ̀͘ͅĵ̷̵̴̪̻͈̹͖͓̒̏͂̅̇̍̓͢ͅȩ̛ͧ͋͗ͮ̅̓̆̿̄̅ͮ̓̒̓ͭͬͮ̐́͟҉̤͎̮͍̞͕̹͙̬̠f̛̛̳̜̥̝̮͚̜͕̼̩̻̗ͨ̊ͫͪͦ̂͋̃ͤ̏̒͜f̸̛̝̹̼͔͖͔̫̦̠͔̞̹̙̙͙̎ͮͨ̓̀
 
-̶̷̧̜̯̰̰̦͔̻̻̩̎̊ͬ̋̈͑ͩ̓͐g̒̿͂̾̅̀̑͗̈́̚̕҉̤̙̭͙̼͈̺̫̻̲̤̞̳̖͡͡ͅg̷̖̣̖̜̑̉̽̐̂͂̃ͬ̆̀͗̉ͮͅg̡̨͊͐ͩ̎̃ͣ̾̄̇̀̇̂̃͂̍̊͋̚͠͏̟̣̻͎͢g̡̼̝̱̬͙͓̝̞͇͓̊́͂͌̊̍ͨ̑ͭ̅̕g̼̼̯̣̲̙̗̦͈̫͖̪̭͖͇͔̦̱̠̅̓͑͂ͬ̂̏͒͆̋ͦ͑̾͌͒̓̅̚͠g̨̛͔̖̙̜̫̙͈͚̮̤̽ͬͦ̽̄̅̅͟͝͞g̍͊̅͌͂͏̨̢̮̠̠̞̲̙g̨ͨ̅̐ͧͪ͏͇͍̖͎g̷̊̆ͦ̄͋͝҉̫͓̘͓͉̪̗̰̻̭̮̜̩̼̱͕͖̹̪ġ̴̢̹̰͓̝̠̯͙̗̲͈̯̰̦͓̜̤̳̞ͭ̓͂̽ͦͣ̈͌̒̆̊́g̢̨͉͍̘̲̦̰̭̤̗̮̦̬̝̘͉͒ͯ̉̿̔̂͟͜͡g̢̢̼̥͚͍̰̘̟̰̮̯̠ͨ͑͗̃̈́̃́ͭ̽̈ͫͅģ̉͛̊̈́̋͑̃͐̔ͥ̀̐͛̃ͬͨ͏͓͔͚̼̜̝̩̪̞̀g̨̪̝̻͉̺͈̃̏͋ͫ̇͐͢͞g̵̶̶̵̢͉͇̜̦̪̯̳̟̲̻̘̙͍͙̤͋̐̀̊̋͊͑ͪͩ̇͊ͅg̤͓̜̺̳̃̍̆ͥ̅ͣ̍̊̓̓ͥ̈́͜͡ǧ̴͖͖̰̩͎͆ͤͤ̏ͭ͆̍̆ͣ̓͟ͅg̨͖̯̖̝̺͙̻ͣ̆̈̄ͬͩͨ̑̎̾ͫ͜g̵̨̧̘̱̖̥͕̟̗̻͔͕͗̅͋̓͛̽̉͑͝ͅg̟͈̮͍̞͖̗͈͎̹͍̭̜̖͌ͮ͊ͩ̒ͥͯ̇͘g̨̗̻̥̼̝͙̤̰̱̟̺̾̆͆͌̃̃͊͟͟͞g̨̻̱̭̹̟͉̱͈̘͚̥͔̞͓̰̯ͪͧ͑̂ͧ̓̈́ͦ̾ͤ͛͐̄͘͟ͅġ̴̨̱̤̘̃̊̊ͫͨ̿͐͊̂ͤ͌̃ͯ̀ģ̿̌̏̀͆̍̔͏̷̴̙̘͎̯̠̺̬̜͇͞g̴̷̨̗̤̝̼͎̮̻̟̟͕͙̥̲̠̖̪̩̜͕̅̃̍̂͘g̵̍̽̿ͥ͋ͪ̓̒̾̾̍͋ͩ̿̓͌̅ͨͥ̀҉̢̨̩̜̤̝̺͎̗̤̟̘̜̮̼̞̰͇̱̞ͅg̷̨̩͙̫͔͙̞̼̝̜̘͕͚͚̭̼̅ͨ̆ͪͣ̀̀ͅͅg̨̻̝͚͍̣̤̬ͭ̎̄ͥ͘͝g̴̵̦͇͚̬ͫ̊͂̇ͪͯͩ͗̈́͛̀̆ͫ̃ͩͤ́̚̚g̶̶̻̟̦ͭ͐̍̓ͧͣͨ̈́̇͊̒ͯ̾͐̇̋̑͜g̵̸̢̞̹̝̦̩̩ͭ̑͌̆͋̒̄͆͂ͨ͛͌̃ͧ͡g̸̢̢͚̪̟̖̖̓̓̔ͮ̽̽͐ͥͫ̽ͥ̅̓̾͟͢g̢̱͎̤͉̲͚̖͈̘͔̮̱̮̻̐ͦ̿͋ͩ̂̒ͬͩ̇͂̈́̄̇ͩ́g̜͙̞̭̩̹̥ͨ͆͐͂̂ͦͣͮͣ̚͘̕g͎̗̯̰̫̦̖͕̝̰̰͛̅͂ͦ́͠ğ͕͔̹̤̭̳͚̫ͭͫ̐̄͑̑̌̀́̚͘͠g̸̭̱̺̠̝͖̟̾̎ͫͪ̏͌͐ͦ̏ͧ̓ͣ̀̀̚ͅg̸͈̠̘͇͇̮͙̺͍̮̯̯̙̹̯̜̩̥͙̔͐̅ͪ͊ͮ͒ͮ̃̊̇̚͡g̢̘̰̗̻͖̭͉̭͕̓ͬ̈ͩ͌̉̃̃̆ͣ̊ͣͧͣͪͦ͜g̷̵̸̳͎̮̳͕̭͚̳̥̯̲̯͙͖̔ͪ͒̽̒̋̒͑͛̈̚̚͢ͅͅg̴̷̢̱̥͓̯͇̜̝̩͆͐̎̓̓ͨ̑̋͞ͅgͩͨ̏̈ͧͮͭ̈̌ͮ͛̈ͥ̈́ͣ͗҉̴̧̢͖̞͍͈̜̳͡g̴̱͙̪̫̹̟̫̰̗̮̪͕̥̻̩̣͙̳̘͑ͭ̽̋͆̂͛͒ͩ͂̃͗ͨ͂̄ͤͩ̆̚͘̕̕g̷̢̩̖̣͔͎͓͕̙͗ͤͨͯ̔̈́ͯ̉ͬ͋̄̀ͪ̐́́͘̕ǧ̷̢̣̹͓̙̮͕̺̙̪̝ͬ͊̿͢͜ģ̢͛͌̈̊ͪ̏҉͎̠͓̼̗ḡ̞̫̭̺̠̫̗͓̝̝̺̙͉̋̈́̒͟͡ͅgͥ̄̑ͩ̅ͣ̑̃͢͠͡͡͏̦͖̭͈̺͔̣̜̣͎̺̦̤͔̳ǧ̲̥͓̩͕̠̦̤͑ͧͦ͋̓̑̎ͥ́͒̓͂̄͠͡g̷̢̡̛̪̥͔̣̹͔̯̠͚̠̫͈̪̘̋̓̎̾̃̀ģ̵̨̥̩̟̤͙̩͇͈̳̟̜̪͔̺̥͕̯̪͍ͯͭͮͥ́̌ͪ͡ġ̶̨̙̭̯̼̲̠̫͖͔͉͉̻̹ͧ̆͗̿̍͟͞͠ĝ̶͔͎̤̬͗ͦ̊͌̏̈̌ͩ̊ͬ͗̓ͤ̂̒͜͢͝ġ̸̷̀̔ͦͦ͆̿ͮ̏̎̅̎ͥ̕͝҉͎̹͖͙̼̲̬͇ͅg̸̛ͤ̓ͯͭ̉̀ͥ̌͐̋ͨͩ͋ͭ̓͋͜͜҉̲̘ͅg̸̷̛̮̼̜̞̗̜̯̝̝̬̻͚̯̪̘͎͈̝͋ͣ̈̆͋̀͑͊̑̊g̵̶̯̝̱̮͎̰̩͇̬ͯ̈͋͛͌̔ͤ́̽̑̏ͣ̓͜g͊ͨ̑̄̓̑̅ͮ̾ͬ͑̃͐̓͛̓͡҉̺͚̪̝̪g̴̷͙̻̙̩̠̮̜͓̣̗̙͙̲̱͖͓̗̮ͬ͒̑̓̎̈͋͋̊̓̀ͣ̅g̸̓ͧ͑ͪ́̕͏͍̝̰̰̞̥̲ǧ̥͚̖̙̟̞̖͖͙͍̳͌͐ͧ̽̎ͬ͂̊ͫ͛͢͞g̵̔ͬ̋͗͆̚҉̴͓̙͎͉̪͈̰̰̣̙̪ͅģ͖͙̘ͪͫ̽ͭ́ͫ͑̾͑ͨ̒ͣ̀͡ͅg̷̢̧̳̩̙̥͕͚̣̠̙̥̫̲̳̣̐ͫ̿͐̇ͭ̿ͨͮ̄̈̽ͦ͆ͨ̈́̓̚͞ͅg͛͆ͥͪ͘͏̥͓̬͓̖̺͉̤̣̯̟͔̟̩̭g̴̢͓̩̩͓̥͉̳̼ͭͭͬͮ͗̍̒̃̍̒͊́̐͆͌͗́͌͡ͅg̵̢͈̘̱̗̳͔͚͕̭̩̬̫̹̞ͭ̃̔̇ͭͩͥ̄̾ͧͭ̅̽̾ͣͫ̾ͩ̀́g̴͚̥̠͔̰͇͍̪̞͍̠̝̩̭̻̣̗̟ͥͣͣͨ͑͑̊̌͝g̰͍̩̱̗ͦ̊̂̄͂̿ͩ̀̋̈ͥͥͣͯ͊̋ͭ̚͢͞g̏̽͒̏͐̅ͣ̎̉͏̱͔̣͔̜̟͓̝̩̥̲̟̦̀̕͢͞ͅg̵̛̛̭̰̪̯̫͉͈̩̫͌̏ͭ́̃͊͠
+̶̷̧̜̯̰̰̦͔̻̻̩̎̊ͬ̋̈͑ͩ̓͐g̒̿͂̾̅̀̑͗̈́̚̕҉̤̙̭͙̼͈̺̫̻̲̤̞̳̖͡͡ͅg̷̖̣̖̜̑̉̽̐̂͂̃ͬ̆̀͗̉ͮͅg̡̨͊͐ͩ̎̃ͣ̾̄̇̀̇̂̃͂̍̊͋̚͠͏̟̣̻͎͢g̡̼̝̱̬͙͓̝̞͇͓̊́͂͌̊̍ͨ̑ͭ̅̕g̼̼̯̣̲̙̗̦͈̫͖̪̭͖͇͔̦̱̠̅̓͑͂ͬ̂̏͒͆̋ͦ͑̾͌͒̓̅̚͠g̨̛͔̖̙̜̫̙͈͚̮̤̽ͬͦ̽̄̅̅͟͝͞g̍͊̅͌͂͏̨̢̮̠̠̞̲̙g̨ͨ̅̐ͧͪ͏͇͍̖͎g̷̊̆ͦ̄͋͝҉̫͓̘͓͉̪̗̰̻̭̮̜̩̼̱͕͖̹̪ġ̴̢̹̰͓̝̠̯͙̗̲͈̯̰̦͓̜̤̳̞ͭ̓͂̽ͦͣ̈͌̒̆̊́g̢̨͉͍̘̲̦̰̭̤̗̮̦̬̝̘͉͒ͯ̉̿̔̂͟͜͡g̢̢̼̥͚͍̰̘̟̰̮̯̠ͨ͑͗̃̈́̃́ͭ̽̈ͫͅģ̉͛̊̈́̋͑̃͐̔ͥ̀̐͛̃ͬͨ͏͓͔͚̼̜̝̩̪̞̀g̨̪̝̻͉̺͈̃̏͋ͫ̇͐͢͞g̵̶̶̵̢͉͇̜̦̪̯̳̟̲̻̘̙͍͙̤͋̐̀̊̋͊͑ͪͩ̇͊ͅg̤͓̜̺̳̃̍̆ͥ̅ͣ̍̊̓̓ͥ̈́͜͡ǧ̴͖͖̰̩͎͆ͤͤ̏ͭ͆̍̆ͣ̓͟ͅg̨͖̯̖̝̺͙̻ͣ̆̈̄ͬͩͨ̑̎̾ͫ͜g̵̨̧̘̱̖̥͕̟̗̻͔͕͗̅͋̓͛̽̉͑͝ͅg̟͈̮͍̞͖̗͈͎̹͍̭̜̖͌ͮ͊ͩ̒ͥͯ̇͘g̨̗̻̥̼̝͙̤̰̱̟̺̾̆͆͌̃̃͊͟͟͞g̨̻̱̭̹̟͉̱͈̘͚̥͔̞͓̰̯ͪͧ͑̂ͧ̓̈́ͦ̾ͤ͛͐̄͘͟ͅġ̴̨̱̤̘̃̊̊ͫͨ̿͐͊̂ͤ͌̃ͯ̀ģ̿̌̏̀͆̍̔͏̷̴̙̘͎̯̠̺̬̜͇͞g̴̷̨̗̤̝̼͎̮̻̟̟͕͙̥̲̠̖̪̩̜͕̅̃̍̂͘g̵̍̽̿ͥ͋ͪ̓̒̾̾̍͋ͩ̿̓͌̅ͨͥ̀҉̢̨̩̜̤̝̺͎̗̤̟̘̜̮̼̞̰͇̱̞ͅg̷̨̩͙̫͔͙̞̼̝̜̘͕͚͚̭̼̅ͨ̆ͪͣ̀̀ͅͅg̨̻̝͚͍̣̤̬ͭ̎̄ͥ͘͝g̴̵̦͇͚̬ͫ̊͂̇ͪͯͩ͗̈́͛̀̆ͫ̃ͩͤ́̚̚g̶̶̻̟̦ͭ͐̍̓ͧͣͨ̈́̇͊̒ͯ̾͐̇̋̑͜g̵̸̢̞̹̝̦̩̩ͭ̑͌̆͋̒̄͆͂ͨ͛͌̃ͧ͡g̸̢̢͚̪̟̖̖̓̓̔ͮ̽̽͐ͥͫ̽ͥ̅̓̾͟͢g̢̱͎̤͉̲͚̖͈̘͔̮̱̮̻̐ͦ̿͋ͩ̂̒ͬͩ̇͂̈́̄̇ͩ́g̜͙̞̭̩̹̥ͨ͆͐͂̂ͦͣͮͣ̚͘̕g͎̗̯̰̫̦̖͕̝̰̰͛̅͂ͦ́͠ğ͕͔̹̤̭̳͚̫ͭͫ̐̄͑̑̌̀́̚͘͠g̸̭̱̺̠̝͖̟̾̎ͫͪ̏͌͐ͦ̏ͧ̓ͣ̀̀̚ͅg̸͈̠̘͇͇̮͙̺͍̮̯̯̙̹̯̜̩̥͙̔͐̅ͪ͊ͮ͒ͮ̃̊̇̚͡g̢̘̰̗̻͖̭͉̭͕̓ͬ̈ͩ͌̉̃̃̆ͣ̊ͣͧͣͪͦ͜g̷̵̸̳͎̮̳͕̭͚̳̥̯̲̯͙͖̔ͪ͒̽̒̋̒͑͛̈̚̚͢ͅͅg̴̷̢̱̥͓̯͇̜̝̩͆͐̎̓̓ͨ̑̋͞ͅgͩͨ̏̈ͧͮͭ̈̌ͮ͛̈ͥ̈́ͣ͗҉̴̧̢͖̞͍͈̜̳͡g̴̱͙̪̫̹̟̫̰̗̮̪͕̥̻̩̣͙̳̘͑ͭ̽̋͆̂͛͒ͩ͂̃͗ͨ͂̄ͤͩ̆̚͘̕̕g̷̢̩̖̣͔͎͓͕̙͗ͤͨͯ̔̈́ͯ̉ͬ͋̄̀ͪ̐́́͘̕ǧ̷̢̣̹͓̙̮͕̺̙̪̝ͬ͊̿͢͜ģ̢͛͌̈̊ͪ̏҉͎̠͓̼̗ḡ̞̫̭̺̠̫̗͓̝̝̺̙͉̋̈́̒͟͡ͅgͥ̄̑ͩ̅ͣ̑̃͢͠͡͡͏̦͖̭͈̺͔̣̜̣͎̺̦̤͔̳ǧ̲̥͓̩͕̠̦̤͑ͧͦ͋̓̑̎ͥ́͒̓͂̄͠͡g̷̢̡̛̪̥͔̣̹͔̯̠͚̠̫͈̪̘̋̓̎̾̃̀ģ̵̨̥̩̟̤͙̩͇͈̳̟̜̪͔̺̥͕̯̪͍ͯͭͮͥ́̌ͪ͡ġ̶̨̙̭̯̼̲̠̫͖͔͉͉̻̹ͧ̆͗̿̍͟͞͠ĝ̶͔͎̤̬͗ͦ̊͌̏̈̌ͩ̊ͬ͗̓ͤ̂̒͜͢͝ġ̸̷̀̔ͦͦ͆̿ͮ̏̎̅̎ͥ̕͝҉͎̹͖͙̼̲̬͇ͅg̸̛ͤ̓ͯͭ̉̀ͥ̌͐̋ͨͩ͋ͭ̓͋͜͜҉̲̘ͅg̸̷̛̮̼̜̞̗̜̯̝̝̬̻͚̯̪̘͎͈̝͋ͣ̈̆͋̀͑͊̑̊g̵̶̯̝̱̮͎̰̩͇̬ͯ̈͋͛͌̔ͤ́̽̑̏ͣ̓͜g͊ͨ̑̄̓̑̅ͮ̾ͬ͑̃͐̓͛̓͡҉̺͚̪̝̪g̴̷͙̻̙̩̠̮̜͓̣̗̙͙̲̱͖͓̗̮ͬ͒̑̓̎̈͋͋̊̓̀ͣ̅g̸̓ͧ͑ͪ́̕͏͍̝̰̰̞̥̲ǧ̥͚̖̙̟̞̖͖͙͍̳͌͐ͧ̽̎ͬ͂̊ͫ͛͢͞g̵̔ͬ̋͗͆̚҉̴͓̙͎͉̪͈̰̰̣̙̪ͅģ͖͙̘ͪͫ̽ͭ́ͫ͑̾͑ͨ̒ͣ̀͡ͅg̷̢̧̳̩̙̥͕͚̣̠̙̥̫̲̳̣̐ͫ̿͐̇ͭ̿ͨͮ̄̈̽ͦ͆ͨ̈́̓̚͞ͅg͛͆ͥͪ͘͏̥͓̬͓̖̺͉̤̣̯̟͔̟̩̭g̴̢͓̩̩͓̥͉̳̼ͭͭͬͮ͗̍̒̃̍̒͊́̐͆͌͗́͌͡ͅg̵̢͈̘̱̗̳͔͚͕̭̩̬̫̹̞ͭ̃̔̇ͭͩͥ̄̾ͧͭ̅̽̾ͣͫ̾ͩ̀́g̴͚̥̠͔̰͇͍̪̞͍̠̝̩̭̻̣̗̟ͥͣͣͨ͑͑̊̌͝g̰͍̩̱̗ͦ̊̂̄͂̿ͩ̀̋̈ͥͥͣͯ͊̋ͭ̚͢͞g̏̽͒̏͐̅ͣ̎̉͏̱͔̣͔̜̟͓̝̩̥̲̟̦̀̕͢͞ͅg̵̛̛̭̰̪̯̫͉͈̩̫͌̏ͭ́̃͊͠
 
 **GUYS!!! CHECK THE CALENDAR!!!**
 
@@ -134,6 +134,8 @@ These are links to some of my projects I've been working on in and out of ACS. C
 
 - <a href="https://stantonr16.github.io/Chemotaxis/">Chemotaxis URL</a>
 
+- I thought this was a pretty cool project to start the year. I mostly learned about drawing more advanced things in Processing.
+
 </p>
 </details>
 
@@ -147,6 +149,8 @@ These are links to some of my projects I've been working on in and out of ACS. C
 
 - <a href="https://stantonr16.github.io/Dice/">Dice URL</a>
 
+- The biggest thing I learned while making this project was efficiency. I came up with a cool method for drawing die by using enums, but unfortunately a lot of the code I wrote didn't work online.
+
 </p>
 </details>
 
@@ -159,6 +163,8 @@ These are links to some of my projects I've been working on in and out of ACS. C
 - <a href="https://github.com/StantonR16/lightning2">Lightning (+JS)<br></a>
 
 - <a href="https://stantonr16.github.io/lightning2/">Lightning URL<br></a>
+
+- I thought it was cool being able to combine both Processing and JS in the same web page. It taught me a lot about how modern websites fuse languages together to create a complex and interactive web page.
 
 <!-- <a href="https://stantonr16.github.io/Dice/">Lightning JS</a> -->
 
@@ -174,6 +180,8 @@ These are links to some of my projects I've been working on in and out of ACS. C
   - <a href="https://github.com/StantonR16/TestPage">Web page<br></a>
   
   - <a href="https://stantonr16.github.io/TestPage/">Web page URL<br></a>
+  
+  - This was the first legitimate website I created using pure HTML and JS. I'd created websites before, but nowhere near as complex as this one. I also knew what I was doing this time around.
 
 
 </p>
@@ -187,6 +195,8 @@ These are links to some of my projects I've been working on in and out of ACS. C
 <p>
   
   - <a href="https://docs.google.com/presentation/d/10J8a6gS9GdSibj7b8eD5rL5nlw0OKGnh99JgMz0yQVU/edit?usp=sharing">Presentation<br></a>
+  
+  - It was nice to visit another college campus. Though I decided to go to the U of MN instead, it was interesting talking to the staff about their computer science programs.
 
 
 </p>
@@ -200,6 +210,8 @@ These are links to some of my projects I've been working on in and out of ACS. C
   - <a href="https://github.com/StantonR16/starfield5">Starfield<br></a>
   
   - <a href="https://stantonr16.github.io/starfield5/">Starfield URL<br></a>
+  
+  - I liked learning how to draw even more advanced things in Processing. I came up with a cool method for moving stars:
  
 ```Java
 void move(double angleDelta) {
@@ -224,9 +236,11 @@ void move(double angleDelta) {
  
  - <a href="https://stantonr16.github.io/HolidayCard2018/">Holiday card URL<br></a>
  
+ - This Holiday card was more advanced than the one I did in 2017. This was particularly epic because I included easter eggs. The code I wrote was also a lot better than the 2017 Holiday card.
+ 
 </p>
 
-- This was particularly epic because I included easter eggs.
+
 
 
 </details>
@@ -242,6 +256,80 @@ void move(double angleDelta) {
 - This assignment was extremely frustrating because my code worked on desktop but not online *(as does every single Processing project)*. Specifically, my syllable counter was originally done with Regex but Processing is stupid and Regex doesn't work online. I ended up having to write my syllable counter in a less efficient manner. I had to write the syllable counter a total of 3 times before it actually worked.
  
 </p>
-</details>
 
+<p></p>
+</details>
+<details><summary><strong>Innovation seminars</strong></summary>
+
+<p>
+  
+  - <a href="https://docs.google.com/presentation/d/1xKpmGuXt1puuoJHT7F5XfBme4tMiMoWxTg_g47VaHEo/edit?usp=sharing">Presentation<br></a>
+  
+
+- Project Soli is a project by Google to create interactive interfaces using radio frequencies. I think this would be very cool to be able to program. It would be epic if you could program it to do what you want.
+ 
+</p>
+</details>
+<p></p>
+<details><summary><strong>Markov Chain</strong></summary>
+
+<p>
+  
+  - <a href="https://github.com/ACS-2018-2019/Stanton.R/blob/master/MarkovC/MarkovC.pde">MarkovC<br></a>
+  
+
+- I thought this was interesting but it confused me a bit before I could fully understand it. I think it's a really cool aspect of computer science and it taught me a lot about how thinks like search engines work.
+ 
+</p>
+</details>
+<p></p>
+<details><summary><strong>Data structures</strong></summary>
+
+<p>
+  
+  - <a href="https://github.com/ACS-2018-2019/Stanton.R">Some code<br></a>
+  
+
+- I learned a lot about data structures this year. I already knew about Sets, Maps, and LinkedLists, but I learned a lot about Queues and Stacks. I had never used Queues and Stacks before because I never needed to use a structure like them. I think my knowledge will help me write more efficient and effective code because I will know which structure I need to use and how to apply its use.
+ 
+</p>
+</details>
+<p></p>
+<details><summary><strong>DataAnalysis</strong></summary>
+
+<p>
+  
+  - <a href="https://github.com/StantonR16/DataAnalysis">DataAnalysis<br></a>
+  
+
+- This project analyzed a set of data. Specifically, it analyzed my Instagram page's data such as comments, likes, posts, views, etc. over time. It created a bar graph of and a line graph based on the date setting. You could analyze the day, week, month, year, or absolute time.
+ 
+</p>
+</details>
+<p></p>
+<details><summary><strong>Trees</strong></summary>
+
+<p>
+  
+  - <a href="https://github.com/ACS-2018-2019/Stanton.R/tree/master/Treez">Trees<br></a>
+  
+
+- I thought learning about Trees was really interesting because I'd never used a structure like a Tree before. I also think it's really interesting how they work because I learned about how certain websites and apps use Trees to make a functioning interactive tool like a quiz.
+ 
+</p>
+</details>
+<p></p>
+<p></p>
+<details><summary><strong>InteractiveEcon</strong></summary>
+
+<p>
+  
+  - <a href="https://github.com/StantonR16/InteractiveEcon">InteractiveEcon<br></a>
+  
+  - WIP  
+
+- This was my final project for ACS. The program creates interactive economic graphs such as simple supply and demand. It shows the effects of shifts of curves.
+ 
+</p>
+</details>
 
